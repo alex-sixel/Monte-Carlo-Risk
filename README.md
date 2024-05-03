@@ -23,7 +23,7 @@ Information about Monte Carlo Simulation:
 - None, so far
 
 
-# Librarys: 
+# Libs: 
 
 This project uses the following libs: openpyxl, numpy, pyplot, seaborn, pert
 
