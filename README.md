@@ -22,6 +22,9 @@ Information about Monte Carlo Simulation:
 # Problems: 
 - None, so far
 
+# Limitations:
+- Openpyxl cannot read values from macros, so avoid using it when manipulating values. Otherwise an error message will be thrown
+
 
 # Libs: 
 
